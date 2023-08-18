@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.10+commit.fc410830"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/buddytoken.sol": "SafeMath"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/buddytoken.sol": {
+			"keccak256": "0x7a1f8f6d00ac977843acce1a728234b36e08b7d971fb2498c9902abede9d715e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6a1408a377da3d54b8f9db62c43d326d71d682fdbe76195074d39bca71cd1ada",
+				"dweb:/ipfs/QmZrzQs6jue7hPf2a7tMnobNStUMzhhS8zh3cD3EmBz3bV"
+			]
+		}
+	},
+	"version": 1
+}
